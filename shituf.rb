@@ -2,8 +2,8 @@
 
 require 'gmail'
 
-@username = 'afekashare@gmail.com'
-@password = 'qazxcdew'
+@username = 'example@gmail.com'
+@password = 'secret'
 @registered =[]
 
 def loadRegistered(path)

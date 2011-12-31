@@ -1,0 +1,12 @@
+A simple script to turn a gmail account into a mail sharing mailing list
+to join the mailing list simply send an email with the title "add me"
+to leave the mailing list simply send an email with the title "remove me"
+all other emails will be transfered with their attachements to all recipiants in the list.
+
+need to add:
+1. better security
+2. better configuration
+3. removing attachements after sending mail
+4. allowing more commands
+5. checking for errors
+6. using a clever programming techniques
