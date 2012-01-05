@@ -1,6 +1,6 @@
 # encoding: UTF-8
-
 require 'gmail'
+
 class Shituf
 	def initialize(username,password)
 	@username = username
@@ -77,7 +77,3 @@ class Shituf
 		saveRegistered("list.txt")
 	end
 end
-
-s = Shituf.new('username','password')
-
-s.shareMail()
