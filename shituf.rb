@@ -1,5 +1,6 @@
 # encoding: UTF-8
-require 'gmail'
+require 'rubygems'
+gem 'ruby-gmail'
 
 class Shituf
 	def initialize(username,password)
