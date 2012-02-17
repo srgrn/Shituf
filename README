@@ -1,4 +1,9 @@
 A simple script to turn a gmail account into a mail sharing mailing list
+Please note that newman at https://github.com/mendicant-university/newman is a full framwork that has a simple mailing list example
+so this script is no longer needed 
+
+
+
 to join the mailing list simply send an email with the title "add me"
 to leave the mailing list simply send an email with the title "remove me"
 all other emails will be transfered with their attachements to all recipiants in the list.
